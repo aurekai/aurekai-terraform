@@ -6,7 +6,7 @@
 
 Aurekai integration surface for Terraform.
 
-Status: planned
+Status: active
 Type: infra
 
 ## Core Template Set
