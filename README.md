@@ -21,3 +21,6 @@ Type: infra
 - Native runtime: https://github.com/aurekai/native-runtime
 - Integration registry: https://github.com/aurekai/aurekai/blob/main/registry/integrations.json
 - Ecosystem map: https://github.com/aurekai/aurekai/blob/main/ECOSYSTEM_NAMES.md
+## Starter Templates
+
+- examples/release-gate/main.tf
